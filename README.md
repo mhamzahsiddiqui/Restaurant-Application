@@ -1,4 +1,4 @@
-# nancy
+# Restaurant Application
 
 A new Flutter application.
 
